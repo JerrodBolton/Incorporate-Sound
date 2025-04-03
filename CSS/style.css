@@ -40,15 +40,23 @@ footer {
 
 .memeImage{ 
   margin: 50px;
+  margin-top: auto;
   margin-bottom: 100px;
   width: 350px;
   height: 350px;
   
 }
+audio{
+  float: left;
+  padding: 0px, 2px, 0px, 2px;
+  line-height:30px;
+
+}
 
 header {
   text-align: center;
 }
+
  button{
   background-color: rgba(0, 0, 0, 0.1);
   color: rgb(138, 43, 226);
